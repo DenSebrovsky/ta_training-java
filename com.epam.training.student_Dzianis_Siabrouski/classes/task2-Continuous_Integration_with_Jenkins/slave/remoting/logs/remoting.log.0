@@ -1,0 +1,29 @@
+θών 27, 2022 3:37:21 PM hudson.remoting.jnlp.Main createEngine
+INFO: Setting up agent: desktop-9c8rdrh
+θών 27, 2022 3:37:21 PM hudson.remoting.jnlp.Main$CuiListener <init>
+INFO: Jenkins agent is running in headless mode.
+θών 27, 2022 3:37:21 PM hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 4.13
+θών 27, 2022 3:37:21 PM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using C:\Users\Programming\Epam-learning\com.epam.training.student_Dzianis_Siabrouski\classes\task2-Continuous Integration with Jenkins\slave\remoting as a remoting work directory
+θών 27, 2022 3:37:21 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Locating server among [http://localhost:8081/]
+θών 27, 2022 3:37:21 PM org.jenkinsci.remoting.engine.JnlpAgentEndpointResolver resolve
+INFO: Remoting server accepts the following protocols: [JNLP4-connect, Ping]
+θών 27, 2022 3:37:21 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Agent discovery successful
+  Agent address: localhost
+  Agent port:    49677
+  Identity:      df:e2:3b:37:3b:f9:f7:a9:75:79:48:50:20:55:5f:7c
+θών 27, 2022 3:37:21 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Handshaking
+θών 27, 2022 3:37:21 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connecting to localhost:49677
+θών 27, 2022 3:37:21 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Trying protocol: JNLP4-connect
+θών 27, 2022 3:37:21 PM org.jenkinsci.remoting.protocol.impl.BIONetworkLayer$Reader run
+INFO: Waiting for ProtocolStack to start.
+θών 27, 2022 3:37:22 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Remote identity confirmed: df:e2:3b:37:3b:f9:f7:a9:75:79:48:50:20:55:5f:7c
+θών 27, 2022 3:37:22 PM hudson.remoting.jnlp.Main$CuiListener status
+INFO: Connected
